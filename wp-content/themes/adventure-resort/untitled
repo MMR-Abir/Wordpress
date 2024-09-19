@@ -1,0 +1,25 @@
+
+* Added footer link.
+* Added global color setting in customizer.
+* Added typography option in customizer.
+* Added pot file.
+* Added demo importer.
+* Added description.
+* Added get start and notice.
+
+.feature-section.three-col{
+	display:flex;
+	justify-content: center;
+}
+.widgets-holder-wrap.demo-content {
+    background: #fff4e1;
+}
+.feature-section.three-col .col{
+	width:32%;
+	margin-bottom: 30px;
+}
+
+
+
+SLIDER POST /PAGES
+SEARCH ENABLE DISCABLE

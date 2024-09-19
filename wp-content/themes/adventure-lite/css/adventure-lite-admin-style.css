@@ -1,0 +1,7 @@
+.largefont, .largefont p{font-size:16px;}
+.adventure-lite-notice-container{width:100%; padding:15px 0 15px 0;}
+.adventure-lite-notice-img{float:left; text-align:left; width:13%;}
+.adventure-lite-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.adventure-lite-notice-heading{font-size:20px; font-weight:600;}
+.adventure-lite-clear{clear:both;}
+.wp-block{max-width: 1210px !important;}
